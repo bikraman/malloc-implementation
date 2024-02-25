@@ -1,2 +1,2 @@
 # malloc-implementation
-Implementing malloc in C from scratch
+Implementing a simple memory allocator in C
